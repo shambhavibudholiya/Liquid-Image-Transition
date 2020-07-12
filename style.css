@@ -1,0 +1,28 @@
+.landing{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.distortion{
+    width: 502px;
+    height: 600px;
+    align-self:flex-end;
+    
+}
+.intro{
+    align-self: center;
+}
+
+.intro h1{
+font-family: Reem Kufi;
+font-style: normal;
+font-weight: normal;
+font-size: 60px;
+color: #0FABBC;
+}
+
+.intro p{
+    font-size: 25px;
+    font-family: Reem Kufi;
+}
